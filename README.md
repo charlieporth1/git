@@ -1,3 +1,1 @@
-# gobalwarm
-# git
 # git
